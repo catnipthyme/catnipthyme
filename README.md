@@ -1,8 +1,10 @@
-- 👋 <s>Hi, I’m @catnipthyme</s> Greetings, new colleagues and possible new friends. My name is Cat, and I am incredibly excited to be here. Re-learning how to learn has been wonderful, and I look forward to continuing my coding education for the rest of my life. 
-- 👀 <s>I’m interested in ...</s> I look forward to creating something new, or helping someone else see their own dreams come to life. How will this be achieved? My adventure is just beginning, so that is the fun part; I don't know, yet!
-- 🌱 <s>I’m currently learning ...</s> As a young teenager, I did simple html on Neopets -- as all the cool kids did -- but abandoned that hobby almost two decades ago. As such, I may as well be learning coding from scratch. Everything is shiny and new, and I'm loving it.
-- 💞️ <s>I’m looking to collaborate on ...</s> Since I started App Academy, I am looking to work with other students to study and attempt projects with!
-- 📫 <s>How to reach me ...</s> Feel free to contact me at catcerickson@gmail.com.
+Greetings, new colleagues and possible new friends. My name is Cat, and I made my account before I knew usernames were made public. It should be something more professional, but I'm stuck with @catnipthyme. Such is life.
+
+I had a Bad Time at a coding bootcamp, and the Negative Events that followed destroyed my wish to continue learning. It is time, however, to get back at it. I aim to study/code every day. I aim for consistency -- even thirty minutes of coding is better than not coding at all. Baby steps are still steps. The massive quantity of tutorials and courses and tips all across the internet bogged me down for some time, delaying my re-entry into the field, but in February of 2025 I decided to focus on The Odin Project as my main resource. I started from scratch. 
+
+I would be happy to pair-program with fellow JavaScript learners of any level to complete little projects and help each other on our coding journeys.
+
+Feel free to contact me at catcerickson@gmail.com.
 
 <!---
 catnipthyme/catnipthyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
